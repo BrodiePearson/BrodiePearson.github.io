@@ -4,7 +4,7 @@ plugins: ['jekyll/scholar']
 
 # Site settings
 title: Brodie Pearson
-email: pearsbro@oregonstate.edu
+email: brodie.pearson@oregonstate.edu
 description: "Turbulence in the Ocean"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -20,15 +20,11 @@ paginate_path: "/blog/page:num/"
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: envelope
-    url: mailto:pearsbro@oregonstate.edu
+    url: mailto:brodie.pearson@oregonstate.edu
   - title: twitter
-    url:
-  - title: vimeo
-    url:
+    url: https://twitter.com/BrodiePearson4
   - title: github
-    url: http://github.com/bpearson55
-  - title: bitbucket
-    url:
+    url: https://github.com/BrodiePearson
 
 # Postal address (add as many lines as necessary)
 address:
