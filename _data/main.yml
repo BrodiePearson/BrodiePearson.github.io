@@ -1,0 +1,41 @@
+contact:
+  name: Brodie Craig Pearson
+  title: Assistant Professor
+  department: College of Earth, Ocean, and Atmospheric Sciences
+  institution: Oregon State University
+  postal-address: s
+  email: pearsbro@oregonstate.edu
+  website: http://bpearson55.github.io
+
+education:
+  - degree: Ph.D., Atmospheric, Oceanic, and Climate Science
+    institution: University of Reading
+    location: Reading, Berkshire, UK
+    dates: Sept. 2011--Jan. 2015
+    thesis: Langmuir Turbulence in the Ocean Surface Boundary Layer
+    advisor: Stephen Belcher, Alan Grant, and Jeff Polton
+  - degree: M.Phys.
+    institution: Oxford University
+    location: Oxford, Oxfordshire, UK
+    dates: Sept. 2007--June 2011
+    thesis: s
+    advisor: Laure Zanna
+
+appointments:
+  - title: Assistant Professor
+    institution: Oregon State University
+    location: Corvallis, Oregon, USA
+    dates: Dec. 2019--present
+  - title: Visiting Assistant Professor (Research)
+    institution: Brown University
+    location: Providence, Rhode Island, USA
+    dates: Feb. 2019--Dec. 2019
+  - title: Senior Research Associate
+    institution: Brown University
+    location: Providence, Rhode Island, USA
+    dates: Feb. 2018--Feb. 2019
+  - title: Postdoctoral Research Associate
+    institution: Brown University
+    location: Providence, Rhode Island, USA
+    dates: Feb. 2015--Jan. 2018
+

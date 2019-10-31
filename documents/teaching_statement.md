@@ -1,0 +1,2 @@
+# Brodie Pearson: Teaching Statement #
+

@@ -1,0 +1,16 @@
+- name: Brodie Pearson
+  pic: brodie.jpg
+  position: Assistant Professor
+  social:
+   - title: envelope
+     url: mailto:pearsbro@oregonstate.edu
+   - title: twitter
+     url:
+   - title: linkedin
+     url:
+   - title: vimeo
+     url:
+   - title: github
+     url:
+   - title: bitbucket
+     url:
