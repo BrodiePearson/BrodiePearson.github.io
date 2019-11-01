@@ -1,5 +1,5 @@
 - name: Brodie Pearson
-  pic: headshot.png
+  pic: Headshot.png
   position: Assistant Professor, Oregon State University
   social:
    - title: envelope
@@ -10,17 +10,17 @@
      url: https://github.com/BrodiePearson
 
 - name: Baylor Fox-Kemper
-  place: "Brown University (Brodie's post-doctoral supervisor)"
+  position: "Brown University (Brodie's post-doctoral supervisor)"
   url: http://www.geo.brown.edu/research/Fox-Kemper/
 - name: Stephen Belcher
-  place: "Chief Scientist, UK Met Office (Brodie's PhD advisor)"
+  position: "Chief Scientist, UK Met Office (Brodie's PhD advisor)"
   url: https://www.metoffice.gov.uk/research/people/stephen-belcher
 - name: Alan Grant
-  place: "University of Reading, UK (Brodie's PhD advisor)"
+  position: "University of Reading, UK (Brodie's PhD advisor)"
   url: https://research.reading.ac.uk/meteorology/people/alan-grant/
 - name: Jeff Polton
-  place: "National Oceanography Centre, Liverpool, UK (Brodie's PhD advisor)"
+  position: "National Oceanography Centre, Liverpool, UK (Brodie's PhD advisor)"
   url: http://noc.ac.uk/people/jelt
 - name: Scott Bachman
-  place: "NCAR/UCAR"
+  position: "NCAR/UCAR"
   url: https://staff.ucar.edu/browse/orgs/CGD
