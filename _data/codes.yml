@@ -1,1 +1,16 @@
-
+- name: Large Eddy Simulation (LES)
+  network: github
+  url:
+  description: ' A model for simulating three-dimensional turbulent flows, such as upper-ocean dynamics.'
+- name: pyQG
+  network: github
+  url: https://github.com/pyqg/pyqg
+  description: ' Simulates large-scale dynamics of the ocean and atmosphere, where flows are almost two-dimensional. The documentation for this model is concise and clear, which makes it realtively easy to get started with it!'
+- name: Community Earth System Model (CESM)
+  network: github
+  url: http://www.cesm.ucar.edu
+  description: ' A complex model that simulates the global Earth system (oceans, atmosphere, cryosphere etc.). CESM is one of the computer models used in the IPCC report, and it is well-documented, easy to modify, and has varying levels of complexity that can be switched on or off.'
+- name: The General Ocean Turbulence Model (GOTM) and the Community Ocean Vertical Mixing Project (CVMix)
+  network: github
+  url: https://github.com/qingli411/gotm
+  description: ' Both of these are computer models that simulate the mixing effects of turbulence in the vertical direction, which is crucial for the upper ocean`s evolution. Qing Li (LANL) has coupled these models so that we can evaluate existing ways of accounting for mixing (parameterizations), and test new parameterizations that we develop.' 
