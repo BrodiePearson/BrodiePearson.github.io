@@ -11,15 +11,21 @@
 
 - name: <a href ="http://www.geo.brown.edu/research/Fox-Kemper/">Baylor Fox-Kemper</a>
   position: "Brown University (Brodie's post-doctoral supervisor)"
-- name: Stephen Belcher
+- name: <a href ="https://www.metoffice.gov.uk/research/people/stephen-belcher">Stephen Belcher</a>
   position: "Chief Scientist, UK Met Office (Brodie's PhD advisor)"
-  url: https://www.metoffice.gov.uk/research/people/stephen-belcher
-- name: Alan Grant
+- name: <a href ="https://research.reading.ac.uk/meteorology/people/alan-grant/">Alan Grant</a>
   position: "University of Reading, UK (Brodie's PhD advisor)"
-  url: https://research.reading.ac.uk/meteorology/people/alan-grant/
-- name: Jeff Polton
+- name: <a href ="http://noc.ac.uk/people/jelt">Jeff Polton</a>
   position: "National Oceanography Centre, Liverpool, UK (Brodie's PhD advisor)"
-  url: http://noc.ac.uk/people/jelt
-- name: Scott Bachman
+- name: <a href ="https://staff.ucar.edu/browse/orgs/CGD">Scott Bachman</a>
   position: "NCAR/UCAR"
-  url: https://staff.ucar.edu/browse/orgs/CGD
+- name: <a href ="https://jlpearso.github.io/">Jenna Pearson</a>
+  place: "Brown University"
+- name: <a href ="https://publons.com/researcher/1330265/qing-li/">Qing Li</a>
+  place: "Los Alamos National Lab"
+- name: <a href ="https://www.linkedin.com/in/henry-chang-a2a11657">Henry Chang</a>
+  place: "University of Delaware"
+- name: <a href ="http://noc.ac.uk/people/jelt">Sarah Cooley</a>
+  place: "Brown University"
+- name: <a href ="http://noc.ac.uk/people/jelt">Peter Cornillon</a>
+  place: "University of Rhode Island"
