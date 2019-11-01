@@ -17,8 +17,6 @@
   position: "University of Reading, UK (Brodie's PhD advisor)"
 - name: <a href ="http://noc.ac.uk/people/jelt">Jeff Polton</a>
   position: "National Oceanography Centre, Liverpool, UK (Brodie's PhD advisor)"
-- name: <a href ="https://staff.ucar.edu/browse/orgs/CGD">Scott Bachman</a>
-  position: "NCAR/UCAR"
 - name: <a href ="https://jlpearso.github.io/">Jenna Pearson</a>
   place: "Brown University"
 - name: <a href ="https://publons.com/researcher/1330265/qing-li/">Qing Li</a>
@@ -29,3 +27,5 @@
   place: "Brown University"
 - name: <a href ="http://noc.ac.uk/people/jelt">Peter Cornillon</a>
   place: "University of Rhode Island"
+- name: <a href ="https://staff.ucar.edu/browse/orgs/CGD">Scott Bachman</a>
+  position: "NCAR/UCAR"
