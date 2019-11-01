@@ -1,0 +1,11 @@
+- name: Brodie Pearson
+  pic: brodie.jpg
+  position: Assistant Professor
+  social:
+   - title: envelope
+     url: mailto:brodie.pearson@oregonstate.edu
+   - title: twitter
+     url: https://twitter.com/BrodiePearson4
+   - title: github
+     url: https://github.com/BrodiePearson
+
