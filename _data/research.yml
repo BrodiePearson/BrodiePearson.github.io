@@ -16,7 +16,7 @@
 - name: How Does Small-scale Mixing Affect the Earth's Climate?
   pic: Global_Diss.jpg
   more: models
-  description: "The Earth is a complex system, with a variety of processes (physical, chemical, biological, geological etc.) occurring in a range of places and across an expanse of scales. Many of these processes interact with each other either directly or indirectly. I use GCMs (global climate models or general circulation models) to understand how the Earth system will evolve under these interactions, and to quantify how and why fast, small-scale mixing in the ocean affects the Earth system at larger scales and over longer times. Observations can be used to understand the properties of the ocean now and in the recent past (decades up to millenia for some properties). However, computer models are our main tool for predicting the state of the oceans in the future. My work developing new ways to include mixing processes in these computer models (described above) should improve our predictions of ocean changes.   "
+  description: "The Earth is a complex system, with a variety of processes (physical, chemical, biological, geological etc.) occurring in a range of places and across an expanse of scales. Many of these processes interact with each other either directly or indirectly. I use GCMs (global climate models or general circulation models) to understand how the Earth system will evolve under these interactions, and to quantify how and why fast, small-scale mixing in the ocean affects the Earth system at larger scales and over longer times.  "
 
 - name: How Will the Oceans Change in the Future?
   pic: SST_Timeseries.jpg
