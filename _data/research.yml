@@ -22,3 +22,8 @@
   pic: SST_Timeseries.jpg
   more: models
   description: "I am a Chapter Scientist for the Intergovernmental Panel on Climate Change's 6<sup>th</sup> Assessment Report (IPCC AR6). As part of this role, I analyze hundreds of computer models and dozens of datasets to present our best predictions of how Earth's oceans (and atmosphere, ecology, land etc.) will change in the coming centuries. The IPCC AR6 will be released in 2021, after multiple rounds of peer review by thousands of scientists and hundreds of governments. I am also involved in a project investigating future changes in sea-ice, and how this could impact Arctic communities.   "
+
+- name: New Tools for Measuring Mixing
+  pic: SST_Timeseries.jpg
+  more: models
+  description: "Making observations of the ocean is often challenging; ships need to be sailed to specific locations, satellites need to be launched to make remote measurements, and new instruments need to be developed to collect observations below the ocean surface. On top of this, turbulent processes that drive ocean mixing are too small and too fast to observe everywhere and at all times. I use our theoretical understanding of ocean flow to identify new properties we can calculate from observations, which can tell us more about the properties of the ocean. I also utilize new data sets from drifting instruments to quantify ocean mixing.   "
