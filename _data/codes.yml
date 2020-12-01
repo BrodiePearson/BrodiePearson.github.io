@@ -1,11 +1,11 @@
-- name: Large Eddy Simulation (LES)
+- name: Oceananigans.jl
   network: github
-  url:
-  description: ' A model for simulating three-dimensional turbulent flows, such as upper-ocean dynamics.'
-- name: pyQG
+  url: https://github.com/CliMA/Oceananigans.jl
+  description: ' A large eddy simulation (LES) model for simulating three-dimensional turbulent flows, like upper-ocean dynamics. This code is written in Julia.'
+- name: GeophysicalFlows.jl
   network: github
-  url: https://github.com/pyqg/pyqg
-  description: ' Simulates large-scale dynamics of the ocean and atmosphere, where flows are almost two-dimensional. The documentation for this model is concise and clear, which makes it realtively easy to get started with it!'
+  url: https://github.com/FourierFlows/GeophysicalFlows.jl
+  description: ' Simulates large-scale dynamics of the ocean and atmosphere, where flows are two-dimensional (2D) or quasi-geostrophic (almost 2D). The documentation for this model is concise and clear, which makes it realtively easy to get started with it! This code is written in Julia.'
 - name: Community Earth System Model (CESM)
   network: github
   url: http://www.cesm.ucar.edu
