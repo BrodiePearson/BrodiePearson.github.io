@@ -1,29 +1,35 @@
 - name: Mixing in the Upper Ocean
   pic: WHOI_UpperOceanGraphic.jpg
-  more: <a href ="https://doi.org/10.1029/2019MS001810">Our paper comparing different parameterizations for upper ocean mixing</a>
+  more: <a href ="https://doi.org/10.1175/JPO-D-15-0018.1">Our paper looking at wave-driven mixing under surface heating conditions</a>
   description: "The upper ocean plays a crucial role in the Earth system as it connects the atmosphere, whose properties vary quickly, to the deep ocean, which changes slowly and stores enormous amounts of heat, gases, and momentum. I study the physics of turbulence, which mediates the transfer of properties across this upper ocean interface. I am particularly interested in how waves on the ocean surface change the properties of upper ocean turbulence.  "
 
 - name: Mesoscale Mixing
   pic: 2D_Turbulence.jpg
-  more: models
+  more: <a href ="https://doi.org/10.1103/PhysRevLett.120.094501">Our paper investigating the intermittency of mesoscale turbulence in ocean models</a>
   description: "The motion of the ocean at large-scales (10-500km) is strongly affected by Earth's rotation and the stratification of the ocean, which makes it behave very differently to small-scale motion (such as upper ocean turbulence). This large-scale motion occurs throughout the depth of the ocean, and it is able to move water long distances. I study large-scale spinning features called mesoscale eddies (or mesoscale turbulence) which provide an important source of mixing and transport deep in the ocean and in climate-critical regions like the Southern Ocean.  "
 
 - name: Creating New Models for Mixing
   pic: OSBL_Params.jpg
-  more: models
+  more: <a href ="https://doi.org/10.1029/2019MS001810">Our paper comparing different parameterizations for upper ocean mixing</a>
   description: "Computer models are essential for making predictions about future weather and Earth's longer-term climate (from forecasting storms in the next few days to anticipating sea level rise decades in advance). These computer models can simulate the large-scale motion of the ocean and atmosphere, but they cannot see (resolve) many mixing processes in the ocean. I use our knowledge of the physics controlling turbulence to create new ways to include the effects of various mixing processes within our computer models.     "
 
-- name: How Does Small-scale Mixing Affect the Earth's Climate?
+- name: How Does Turbulent Mixing Affect the Earth's Climate?
   pic: Global_Diss.jpg
-  more: models
+  more: <a href ="https://doi.org/10.1016/j.ocemod.2017.05.007">Our paper implementing a new mesoscale mixing parameterization in a global ocean model</a>
   description: "The Earth is a complex system, with a variety of processes (physical, chemical, biological, geological etc.) occurring in a range of places and across an expanse of scales. Many of these processes interact with each other either directly or indirectly. I use GCMs (global climate models or general circulation models) to understand how the Earth system will evolve under these interactions, and to quantify how and why fast, small-scale mixing in the ocean affects the Earth system at larger scales and over longer times.  "
 
 - name: How Will the Oceans Change in the Future?
   pic: SST_Timeseries.jpg
-  more: models
-  description: "I am a Chapter Scientist for the Intergovernmental Panel on Climate Change's 6<sup>th</sup> Assessment Report (IPCC AR6). As part of this role, I analyze hundreds of computer models and dozens of datasets to present our best predictions of how Earth's oceans (and atmosphere, ecology, land etc.) will change in the coming centuries. The IPCC AR6 will be released in 2021, after multiple rounds of peer review by thousands of scientists and hundreds of governments. I am also involved in a project investigating future changes in sea-ice, and how this could impact Arctic communities.   "
+  more: <a href ="https://www.ipcc.ch/assessment-report/ar6/">The IPCC AR6 report coming Fall 2021 (I am a Chapter Scientist and Contributing Author for this report)</a>
+  description: "I am a Chapter Scientist and Contributing Author for the Intergovernmental Panel on Climate Change's 6<sup>th</sup> Assessment Report (IPCC AR6). As part of this role, I analyze hundreds of computer models and dozens of datasets to present our best predictions of how Earth's oceans (and atmosphere, ecology, land etc.) will change in the coming centuries. The IPCC AR6 will be released in 2021, after multiple rounds of peer review by thousands of scientists and hundreds of governments. I am also involved in a project investigating future changes in sea-ice, and how this could impact Arctic communities.   "
 
 - name: New Tools for Measuring Mixing
   pic: OSMOSIS_Cruise.png
-  more: models
+  more: <a href ="https://www.doi.org/10.1017/jfm.2021.247">Our paper deriving new turbulence theory to diagnose transfers across scales in large-scale turbulence</a>
   description: "Making observations of the ocean is often challenging; ships need to be sailed to specific locations, satellites need to be launched to make remote measurements, and new instruments need to be developed to collect observations below the ocean surface. On top of this, turbulent processes that drive ocean mixing are too small and too fast to observe everywhere and at all times. I use our theoretical understanding of ocean flow to identify new properties we can calculate from observations, which can tell us more about the properties of the ocean. I also utilize new data sets from drifting instruments to quantify ocean mixing.   "
+
+- name: How does the changing Earth System affect humans?
+  pic: Arctic_dogs.png
+  more: <a href ="https://doi.org/10.1038/s41558-020-0757-5">Our paper investigating the melt timing of landfast Arctic sea ice</a> (image by <a href ="https://sarah-cooley.com/">Sarah Cooley</a>)
+  description: "A key motivation for the above research is to improve our ability to simulate future changes in the oceans and wider Earth system. Through interdisciplinary collaborations, I work to quantify how future changes are likely to impact humans through a variety of mechanisms, from the melting of sea ice that is critical for some Arctic communities, to changes in heat stress for refugee camps. "
+
