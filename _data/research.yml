@@ -20,16 +20,16 @@
 
 - name: How Will the Oceans Change in the Future?
   pic: SST_Timeseries.jpg
-  more: <a href ="https://www.ipcc.ch/assessment-report/ar6/">The IPCC AR6 report coming Fall 2021 (I am a Chapter Scientist and Contributing Author for this report)</a>
+  more: <a href ="https://www.ipcc.ch/assessment-report/ar6/">The IPCC AR6 report coming Fall 2021</a>
   description: "I am a Chapter Scientist and Contributing Author for the Intergovernmental Panel on Climate Change's 6<sup>th</sup> Assessment Report (IPCC AR6). As part of this role, I analyze hundreds of computer models and dozens of datasets to present our best predictions of how Earth's oceans (and atmosphere, ecology, land etc.) will change in the coming centuries. The IPCC AR6 will be released in 2021, after multiple rounds of peer review by thousands of scientists and hundreds of governments. I am also involved in a project investigating future changes in sea-ice, and how this could impact Arctic communities.   "
 
 - name: New Tools for Measuring Mixing
   pic: OSMOSIS_Cruise.png
-  more: <a href ="https://www.doi.org/10.1017/jfm.2021.247">Our paper deriving new turbulence theory to diagnose transfers across scales in large-scale turbulence</a>
+  more: <a href ="https://www.doi.org/10.1017/jfm.2021.247">Our paper deriving new theory to diagnose inter-scale transfers in large-scale turbulence</a>
   description: "Making observations of the ocean is often challenging; ships need to be sailed to specific locations, satellites need to be launched to make remote measurements, and new instruments need to be developed to collect observations below the ocean surface. On top of this, turbulent processes that drive ocean mixing are too small and too fast to observe everywhere and at all times. I use our theoretical understanding of ocean flow to identify new properties we can calculate from observations, which can tell us more about the properties of the ocean. I also utilize new data sets from drifting instruments to quantify ocean mixing.   "
 
 - name: How does the changing Earth System affect humans?
   pic: Arctic_dogs.png
   more: <a href ="https://doi.org/10.1038/s41558-020-0757-5">Our paper investigating the melt timing of landfast Arctic sea ice</a> (image by <a href ="https://sarah-cooley.com/">Sarah Cooley</a>)
-  description: "A key motivation for the above research is to improve our ability to simulate future changes in the oceans and wider Earth system. Through interdisciplinary collaborations, I work to quantify how future changes are likely to impact humans through a variety of mechanisms, from the melting of sea ice that is critical for some Arctic communities, to changes in heat stress for refugee camps. "
+  description: "A key motivator for the above research is to improve our ability to simulate future changes in the oceans and wider Earth system. Through interdisciplinary collaborations, I quantify how future changes are likely to impact humans through a variety of mechanisms, from the melting of sea ice, which is critical for some Arctic communities, to changes in heat stress for refugee camps. "
 
