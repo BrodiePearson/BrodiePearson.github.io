@@ -1,6 +1,17 @@
-- title: Introduction to Atmospheric Dynamics
+- title: Fluid Earth (OEAS 530)
+  pic: Global_Diss.jpg
+  url:
+  description: "Fundamental principles of fluid circulation in the atmosphere and ocean. Offered annually. Lec/lab. "
+  offered: Fall 2021 (annually thereafter)
+  
+- title: Numerical Modelling (OC 675)
+  pic: Numerical_discretization.png
+  url:
+  description: "An introduction to numerical models for geophysical fluid dynamics. Includes the application of idealized and realistic models. Offered every two years. "
+  offered: Spring 2022 (every two years thereafter)
+
+- title: Introduction to Atmospheric Dynamics (Brown University)
   pic: Cold_Front.png
   url:
   description: "An overview of how and why the atmosphere moves the way it does. This course focuses on large-scale dynamics; from waves that wrap themselves around the Earth's circumference, to the formation of hurricanes. "
   offered: Spring 2016, Spring 2018
-
