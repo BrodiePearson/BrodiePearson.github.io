@@ -2,13 +2,13 @@
   pic: Global_Diss.jpeg
   url:
   description: "Fundamental principles of fluid circulation in the atmosphere and ocean. Offered annually. Lec/lab. "
-  offered: Fall 2021 (annually thereafter)
+  offered: Fall 2021 (annual)
   
 - title: Numerical Modelling (OC 675)
   pic: numerical_discretization.png
   url:
   description: "An introduction to numerical models for geophysical fluid dynamics. Includes the application of idealized and realistic models. Offered every two years. "
-  offered: Spring 2022 (every two years thereafter)
+  offered: Spring 2022 (every two years)
 
 - title: Introduction to Atmospheric Dynamics (Brown University)
   pic: Cold_Front.png
