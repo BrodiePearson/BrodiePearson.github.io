@@ -15,8 +15,6 @@
   social:
    - title: envelope
      url: mailto:amrapalli.garanaik@oregonstate.edu
-#   - title: twitter
-#     url: https://twitter.com/BrodiePearson4
    - title: github
      url: https://github.com/amrapallig
 
@@ -26,25 +24,21 @@
   social:
    - title: envelope
      url: mailto:leear@oregonstate.edu
-#   - title: twitter
-#     url: https://twitter.com/BrodiePearson4
    - title: github
      url: https://github.com/leea9524
 
 - name: Cassidy Wagner
-#  pic: Cassidy_Wagner.png
+  pic: Cassidy_Wagner.png
   position: (Future) Graduate Student, Oregon State University
   social:
   - title: envelope
     url: mailto:wagncass@oregonstate.edu
-#   - title: twitter
-#     url: https://twitter.com/BrodiePearson4
    - title: github
      url: https://cassidymwagner.github.io/
      
 - name: Natalie Rodriguez
 #  pic: Headshot.png
-  position: (Future) OSU REU Student, Johns Hopkins University
+  position: OSU REU Student, Johns Hopkins University
   social:
 #   - title: envelope
 #     url: mailto:leear@oregonstate.edu
