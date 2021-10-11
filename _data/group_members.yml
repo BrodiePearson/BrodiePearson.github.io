@@ -8,9 +8,20 @@
      url: https://twitter.com/BrodiePearson4
    - title: github
      url: https://github.com/BrodiePearson
+     
+- name: Amrapalli Garanaik
+#  pic: Amrapalli_Garanaik.png
+  position: Postdoctoral Scholar, Oregon State University
+  social:
+   - title: envelope
+     url: mailto:amrapalli.garanaik@oregonstate.edu
+#   - title: twitter
+#     url: https://twitter.com/BrodiePearson4
+   - title: github
+     url: https://github.com/amrapallig
 
 - name: Ara Lee
-#  pic: Headshot.png
+  pic: Ara_Lee.png
   position: Graduate Student, Oregon State University
   social:
    - title: envelope
@@ -21,11 +32,11 @@
      url: https://github.com/leea9524
 
 - name: Cassidy Wagner
-#  pic: Headshot.png
+#  pic: Cassidy_Wagner.png
   position: (Future) Graduate Student, Oregon State University
   social:
-#   - title: envelope
-#     url: mailto:leear@oregonstate.edu
+  - title: envelope
+    url: mailto:wagncass@oregonstate.edu
 #   - title: twitter
 #     url: https://twitter.com/BrodiePearson4
    - title: github
@@ -40,4 +51,4 @@
 #   - title: twitter
 #     url: https://twitter.com/BrodiePearson4
 #   - title: github
-#     url: https://cassidymwagner.github.io/
+#     url: https://github.com/rodriguezn1899
