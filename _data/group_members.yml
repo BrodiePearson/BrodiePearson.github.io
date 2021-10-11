@@ -8,15 +8,6 @@
      url: https://twitter.com/BrodiePearson4
    - title: github
      url: https://github.com/BrodiePearson
-     
-- name: Amrapalli Garanaik
-#  pic: Amrapalli_Garanaik.png
-  position: Postdoctoral Scholar, Oregon State University
-  social:
-   - title: envelope
-     url: mailto:amrapalli.garanaik@oregonstate.edu
-   - title: github
-     url: https://github.com/amrapallig
 
 - name: Ara Lee
   pic: Ara_Lee.jpeg
@@ -35,6 +26,15 @@
      url: mailto:wagncass@oregonstate.edu
    - title: github
      url: https://cassidymwagner.github.io/
+     
+- name: Amrapalli Garanaik
+#  pic: Amrapalli_Garanaik.png
+  position: Postdoctoral Scholar, Oregon State University
+  social:
+   - title: envelope
+     url: mailto:amrapalli.garanaik@oregonstate.edu
+   - title: github
+     url: https://github.com/amrapallig
      
 - name: Natalie Rodriguez
 #  pic: Headshot.png
